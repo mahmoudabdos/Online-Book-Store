@@ -5,7 +5,7 @@ An **Online Book Store** built using **React** and **TypeScript**, featuring a r
 
 ## 🖥️ Demo
 
-Check out the live demo: [Online Book Store](online-book-store-sandy.vercel.app)
+Check out the live demo: [Online Book Store](https://online-book-store-sandy.vercel.app/)
 
 ## 📋 Table of Contents
 
