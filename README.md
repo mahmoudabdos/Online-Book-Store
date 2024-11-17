@@ -154,5 +154,5 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 ## 📬 Contact
 
-- **Your Name** - [Your Email](mahmoudabdoh2211@gmail.com)
-- **GitHub**: [your-username](https://github.com/mahmoudabdos)
+- **Your Name** - [Mahmoud Abdo](mahmoudabdoh2211@gmail.com)
+- **GitHub**: [Mahmoud Abdo](https://github.com/mahmoudabdos)
